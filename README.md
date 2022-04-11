@@ -1,11 +1,11 @@
 # olabiyitolu/README.md
 Hi, 
 My name is Olabiyi Tolulope Samuel 
-I am a Data Scientist, Data Analyst and Power Platform Developer
+I am a Data Analyst 
 
 I studied Physics with Electronics
 
-My language proficiency are Python and SQL I have consumed alot of machine learning projects as an API for 3rd party integration purposes, also implemented a bit of operation research to allocate resources and make informed decisions.
+My language proficiency are Python and SQL I have consumed alot of machine learning projects, also implemented a bit of operation research to allocate resources and make informed decisions.
 
 Softwares/Technologies/Frameworks/Project Management skills
 
